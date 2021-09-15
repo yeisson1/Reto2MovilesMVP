@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Formulario MVP</string>
+    <string name="calcular_edad">Ingresa tus datos para continuar</string>
+    <string name="inputFecha">Ingrese la fecha</string>
+    <string name="bontonFecha">Clic para seleccionar la fecha</string>
+    <string name="botonEnviar">Continuar</string>
+    <string name="textoToast">Ingrese la fecha de nacimiento</string>
+    <string name="formularioNombre">Nombres</string>
+    <string name="formularioApellido">Apellidos</string>
+    <string name="tituloMostrar">Fecha</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="buttonOk">Salir</string>
+    <string name="fecha">Fecha</string>
+    <string name="mensajeValidacion">Mensaje</string>
+    <string name="informacion">Esta es su información:</string>
+    <string name="nombre_requerido">Nombre Requerido</string>
+    <string name="apellido_requerido">Apellido Requerido</string>
+    <string name="fecha_requerido">Fecha Requerida</string>
+</resources>
